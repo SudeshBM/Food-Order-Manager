@@ -1,0 +1,44 @@
+/* About.css */
+h1 {
+    color: #343a40; /* Dark color for the main heading */
+    font-size: 2.5rem; /* Larger font size for the main heading */
+}
+
+h3 {
+    color: #495057; /* Darker color for subheadings */
+    font-size: 1.75rem; /* Font size for subheadings */
+    margin-top: 30px; /* Space above subheadings */
+}
+
+.lead {
+    color: #6c757d; /* Grey color for the lead paragraph */
+    font-size: 1.25rem; /* Font size for the lead paragraph */
+}
+
+.list-group {
+    margin-top: 20px; /* Space above the list group */
+}
+
+.list-group-item {
+    background-color: #ffffff; /* White background for list items */
+    border: 1px solid #dee2e6; /* Border for list items */
+    border-radius: 0.25rem; /* Rounded corners for list items */
+    padding: 15px; /* Padding for list items */
+    transition: background-color 0.3s; /* Transition effect for hover */
+}
+
+.list-group-item:hover {
+    background-color: #f1f1f1; /* Light grey background on hover */
+}
+
+.text-center {
+    text-align: center; /* Center align text */
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem; /* Margin bottom for spacing */
+}
+
+.mt-4 {
+    margin-top: 1.5rem; /* Margin top for spacing */
+}

@@ -1,0 +1,24 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://example.com/restaurant-background.jpg'); /* Add a restaurant-themed background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .card {
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .btn {
+    transition: background-color 0.3s, border-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #ff6347; /* Lighter shade on hover */
+    border-color: #ff6347;
+  }
