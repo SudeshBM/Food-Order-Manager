@@ -1,4 +1,4 @@
-# Smart-Food Management System 🚀  
+# Food-Order Management System 🚀  
 A full-stack CRUD (Create, Read, Update, Delete) application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project helps users seamlessly manage product information and orders.
 
 ---
